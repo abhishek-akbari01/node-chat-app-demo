@@ -127,6 +127,6 @@ socket.emit('join', {
      if(error)
      {
          alert(error)
-         location.href = '/'
+        // location.href = '/'
      }
 })
